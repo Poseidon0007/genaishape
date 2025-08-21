@@ -51,7 +51,7 @@ optree==0.12.1
 packaging==24.1
 pandas==2.2.2
 pillow==10.4.0
-platformdirs==4.3.7
+platformdirs==4.3.8
 protobuf==4.25.4
 psutil==6.0.0
 py-cpuinfo==9.0.0
