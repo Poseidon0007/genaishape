@@ -16,7 +16,7 @@ cycler==0.12.1
 distlib==0.3.9
 fastapi==0.112.0
 filelock==3.15.4
-Flask==3.0.3
+Flask==3.1.2
 flatbuffers==24.3.25
 fonttools==4.53.1
 fsspec==2024.6.1
